@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SebaMagoi
-- 👀 I’m interested in  Useful technology, applied in everyday life.
+- 🇺🇾 I was born and live in Montevideo, Uruguay
+- 👀 I’m interested in  Useful technology, applied in everyday life. I like to learn something new every day.
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
